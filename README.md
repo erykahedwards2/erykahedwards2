@@ -13,4 +13,4 @@ Fun fact: I am an athlete and new to the tech industry and excited for continuou
 ### Group Projects
 - https://github.com/Quatecha/Phase-2-Final-Project_TKH-
 - https://docs.google.com/document/d/1-GgTHnBkGYlIHQrXS9d9XNCrkRHbqCK8OCcxmQw0BH0/edit
-- 
+
