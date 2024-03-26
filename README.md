@@ -8,7 +8,8 @@ Fun fact: I am an athlete and new to the tech industry and excited for continuou
 
 ***
 
-### Project
+### Projects
+- https://github.com/erykahedwards2/erykahedwards2/blob/main/dockerawstechdoc.pdf
 
 
 ### Collaborative Projects
