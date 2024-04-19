@@ -1,12 +1,12 @@
 ### Hello! I'm Margaret
 
-![Meet Me]()
+![Meet Me](https://github.com/erykahedwards2/erykahedwards2/blob/main/DA8B2A22-464C-4AB7-B7CC-4C783CEC13B5.png)
 
-Passionate Cybersecurity Fellow at The Knowledge House, actively honing my skills to fortify digital systems and thwart cyber threats.
-I'm currently learning AWS cloud computing. 
-I'm currently working on a group Caostone project to create our own SOC Environment on AWS. 
-Im looking for help with Github.
-New to the tech industry and excited for continuous learning!
+- Passionate Cybersecurity Fellow at The Knowledge House, actively honing my skills to fortify digital systems and thwart cyber threats.
+- Improving AWS cloud computing skills
+- I'm the Project manager of a group Capstone project to create our own SOC Environment on AWS. 
+- I'm looking for help with finding internships and entry level opportunities.
+- Loving the tech industry and excited for continuous learning!
 
 ***
 
