@@ -17,4 +17,5 @@
 ### Collaborative Projects
 - [Cybersecurity Lab on AWS](https://github.com/Quatecha/Phase-2-Final-Project_TKH-)
 - [What is Git & Github?](https://docs.google.com/document/d/1-GgTHnBkGYlIHQrXS9d9XNCrkRHbqCK8OCcxmQw0BH0/edit)
+- [Security Operations Center Capstone](https://github.com/Quatecha/SOC-Capstone-Team-1)
 
