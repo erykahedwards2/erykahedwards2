@@ -2,10 +2,10 @@
 
 ![Meet Me](https://github.com/erykahedwards2/erykahedwards2/blob/main/DA8B2A22-464C-4AB7-B7CC-4C783CEC13B5.png)
 
-- Passionate Cybersecurity Fellow at The Knowledge House, actively honing my skills to fortify digital systems and thwart cyber threats.
-- Improving AWS cloud computing skills
-- I'm the Project manager of a group Capstone project to create our own SOC Environment on AWS. 
-- I'm looking for help with finding internships and entry level opportunities.
+- Recent Cybersecurity Fellow Graduate from The Knowledge House, building my technical skills in cybersecurity.
+-  AWS cloud computing 
+- Was the Project manager of a Capstone project to create a SOC Environment on AWS. 
+- I'm interested in obtaining my masters as well as finding internships and entry level opportunities.
 - Loving the tech industry and excited for continuous learning!
 
 ***
